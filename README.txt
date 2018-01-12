@@ -1,4 +1,4 @@
-Code created by Bethany Myers (bethanymyers@library.ucla.edu( and Antonia Osuna-Garcia (aogarcia@library.ucla.edu). 
+Code created by Bethany Myers (bethanymyers@library.ucla.edu) and Antonia Osuna-Garcia (aogarcia@library.ucla.edu). 
 
 ---WHAT THE FILES DO---
 processSentMail.py: Takes a CSV file of emails, sets up lists of topical words, and counts and plots the frequency of those words' appearance in the emails.
